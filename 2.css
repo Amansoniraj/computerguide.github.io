@@ -1,0 +1,14 @@
+table{
+    text-align: center;
+    width: 1000px;
+    margin: 10px auto 10px auto;
+    font-weight: bold;
+}
+.name{
+    background-color: yellow;
+}
+.discription{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: large;
+}

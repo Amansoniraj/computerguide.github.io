@@ -1,0 +1,17 @@
+table{
+    text-align: unset ;
+    width: 1000px;
+    margin: 10px auto 10px auto;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.link{
+    background-color: yellow;
+}
+.Discription{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  lightblue;
+}
+.name{
+    background-color:  lightblue;
+}
